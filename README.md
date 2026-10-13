@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
