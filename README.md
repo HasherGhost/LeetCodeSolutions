@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -29,5 +30,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/HasherGhost/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
